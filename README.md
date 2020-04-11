@@ -6,7 +6,7 @@ This project is micro service seed that created with express and apollo-server.
 
 In order to create a new service based on this seed follow this steps:
 1. Create a new repository for your service.
-2. Clone this repository: `git clone https://github.com/Sagie501/ILend-Service-Seed.git`
+2. Clone this repository: `git clone https://github.com/Sagie501/ilend-service-seed.git`
 3. Move to the cloned directory: `cd ILend-Service-Seed`
 4. Change the remote: `git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
 5. Push the files to the new remote: `git push -u origin master`
